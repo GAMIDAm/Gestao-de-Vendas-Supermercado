@@ -1,5 +1,5 @@
 # ☕ Java MySQL - Sistema de Gestão de Venda de Supermercado
-Sistema de Gestão de Venda de Supermercado é um sistema desktop para gerenciamento de vendas em um supermercado com um CRUD completo para clientes e produtos e relatórios de vendas.
+Sistema de Gestão de Venda de Supermercado é um sistema desktop para gerenciamento de vendas em um supermercado com um CRUD completo para clientes e produtos, bem como relatórios de vendas e um relatório detalhado para cada venda.
 
 ### Tela de Login
 ![Tela de Login](https://github.com/user-attachments/assets/f7a77807-2d3c-4033-921e-1e88e53914c4)
